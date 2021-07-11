@@ -6,7 +6,6 @@
   * [Installation](#installation)
   * [How to Use](#How-to-use)
   * [Collaborators](#collaborators)
-  * [Questions](#questions)
     
   ## Description
   This is a standalone back-end application for an e-commerce site built using Node.js. The working Express.js API has now been updated to use Sequelize to interact with a MySQL database.
@@ -37,6 +36,3 @@
 
   ## Collaborators
   Wyatt Simmons, Xander Rapstine (for the starter codebase)
-
-  ## Questions
-  Have Questions? Ask them at <a href="http://github.com/simmonsW">simmonsW</a> or <a href="mailto:simmonsw182@gmail.com">simmonsw182@gmail.com</a>
