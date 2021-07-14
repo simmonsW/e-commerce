@@ -5,6 +5,7 @@
   * [Technologies used](#technologies_used)
   * [Installation](#installation)
   * [How to Use](#How-to-use)
+  * [Demo](#Demo)
   * [Collaborators](#collaborators)
     
   ## Description
@@ -33,6 +34,21 @@
 
   ## How to Use
   Once dependencies have been installed, run the command `node server.js` from the root of the project. Check out this video to see an example of how to interact with the application using Insomnia Core.
+
+  ## Demo
+  Check out the following demo videos!
+
+  Set up database, and server start:
+  https://youtu.be/v8X-fF46-Kg
+
+  Category routes:
+  https://youtu.be/A-yFfR70WZA
+
+  Product routes:
+  https://youtu.be/MaHuSFAkcN8
+
+  Tag routes:
+  https://youtu.be/S7ztY6dnMB0
 
   ## Collaborators
   Wyatt Simmons, Xander Rapstine (for the starter codebase)
